@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 19, 2015, 12:09:42 PM
+    Author     : EAMirzazade
+*/
+table{background:#CCC;border:1px solid #000; float: left;}
+#logtbl td{padding:2px;border:1px solid #FFD;color: white; }
+#tbl td{padding:2px;border:1px solid #FFD; }
+#add{ float: left;}
+#divv{display: inline-block; background-color: gray; width: 300px;  }
+ body {
+
+    font-family: Verdana, Arial, sans-serif;
+
+    font-size: smaller;
+
+    padding: 50px;
+
+    color: #555;
+
+}
+
+ 
+
+h2 {
+
+    text-align: left;
+
+    letter-spacing: 6px;
+
+    font-size: 1.4em;
+
+    color: #be7429; 
+
+    font-weight: normal;
+
+    width: 450px;
+
+}
+
+ 
+
+table {
+
+    width: 550px;
+
+    padding: 10px;
+
+    background-color: #c5e7e0;
+
+}
+
+ 
+
+th {
+
+    text-align: left;
+
+    border-bottom: 1px solid;
+
+}
+
+ 
+
+td {
+
+    padding: 10px;
+
+}
+
+ 
+
+a:link {
+
+   color: #be7429;
+
+   font-weight: normal;
+
+   text-decoration: none;
+
+}
+
+ 
+
+a:link:hover {
+
+   color: #be7429;
+
+   font-weight: normal;
+
+   text-decoration: underline;
+
+}
